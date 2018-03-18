@@ -1,0 +1,9 @@
+D:\Studia\5 semestr\Urządzenia Peryferyjne\Skaner płaski\Skaner nasz\ScannerWIA\ScannerWIA\bin\Debug\ScannerWIA.exe.config
+D:\Studia\5 semestr\Urządzenia Peryferyjne\Skaner płaski\Skaner nasz\ScannerWIA\ScannerWIA\bin\Debug\ScannerWIA.exe
+D:\Studia\5 semestr\Urządzenia Peryferyjne\Skaner płaski\Skaner nasz\ScannerWIA\ScannerWIA\bin\Debug\ScannerWIA.pdb
+D:\Studia\5 semestr\Urządzenia Peryferyjne\Skaner płaski\Skaner nasz\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.csprojResolveAssemblyReference.cache
+D:\Studia\5 semestr\Urządzenia Peryferyjne\Skaner płaski\Skaner nasz\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.Form1.resources
+D:\Studia\5 semestr\Urządzenia Peryferyjne\Skaner płaski\Skaner nasz\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.Properties.Resources.resources
+D:\Studia\5 semestr\Urządzenia Peryferyjne\Skaner płaski\Skaner nasz\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.csproj.GenerateResource.Cache
+D:\Studia\5 semestr\Urządzenia Peryferyjne\Skaner płaski\Skaner nasz\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.exe
+D:\Studia\5 semestr\Urządzenia Peryferyjne\Skaner płaski\Skaner nasz\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.pdb

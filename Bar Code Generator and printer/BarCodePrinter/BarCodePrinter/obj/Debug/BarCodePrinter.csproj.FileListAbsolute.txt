@@ -1,0 +1,10 @@
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Debug\BarCodePrinter.exe.config
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Debug\BarCodePrinter.exe
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Debug\BarCodePrinter.pdb
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Debug\Barcode.dll
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Debug\Barcode.xml
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Debug\BarCodePrinter.Form1.resources
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Debug\BarCodePrinter.Properties.Resources.resources
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Debug\BarCodePrinter.csproj.GenerateResource.Cache
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Debug\BarCodePrinter.exe
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Debug\BarCodePrinter.pdb
